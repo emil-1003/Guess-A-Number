@@ -1,0 +1,11 @@
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/bin/Debug/netcoreapp2.1/GætEtTal3.0.deps.json
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/bin/Debug/netcoreapp2.1/GætEtTal3.0.runtimeconfig.json
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/bin/Debug/netcoreapp2.1/GætEtTal3.0.runtimeconfig.dev.json
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/bin/Debug/netcoreapp2.1/GætEtTal3.0.dll
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/bin/Debug/netcoreapp2.1/GætEtTal3.0.pdb
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/obj/Debug/netcoreapp2.1/GætEtTal3.0.csprojAssemblyReference.cache
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/obj/Debug/netcoreapp2.1/GætEtTal3.0.csproj.CoreCompileInputs.cache
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/obj/Debug/netcoreapp2.1/GætEtTal3.0.AssemblyInfoInputs.cache
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/obj/Debug/netcoreapp2.1/GætEtTal3.0.AssemblyInfo.cs
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/obj/Debug/netcoreapp2.1/GætEtTal3.0.dll
+/Users/Emil_Andersen/iCloud Drive (arkiv)/Documents/OneDrive - mercantec/C#/GætEtTal3.0/GætEtTal3.0/obj/Debug/netcoreapp2.1/GætEtTal3.0.pdb
